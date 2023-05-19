@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'auto-regex'
+project = 'openDLP'
 copyright = '2022, hitsz-ids'
 author = 'hitsz-ids'
 
